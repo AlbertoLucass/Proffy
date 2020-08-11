@@ -39,3 +39,10 @@ $ npm install
 $ npm run dev
 ```
 Após o término da execução, inicie manualmente no browser acessando: http://localhost:5500
+
+
+![tela1](https://user-images.githubusercontent.com/38790522/89908676-89c9d400-dbc4-11ea-912a-686981de3ef7.png)
+
+![tela2](https://user-images.githubusercontent.com/38790522/89908756-a960fc80-dbc4-11ea-9d13-a222ac7d6e92.png)
+
+![tela3](https://user-images.githubusercontent.com/38790522/89908800-b847af00-dbc4-11ea-8a21-c7e12f3642c0.png)
