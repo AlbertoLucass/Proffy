@@ -38,7 +38,7 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 ```
-Após o término da execução, inicie manualmente no browser acessando: http://localhost:5500
+Após o término da execução, inicie manualmente o browser acessando: http://localhost:5500
 
 
 ![tela1](https://user-images.githubusercontent.com/38790522/89908676-89c9d400-dbc4-11ea-912a-686981de3ef7.png)
