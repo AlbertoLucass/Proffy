@@ -1,7 +1,8 @@
 # Proffy NLW#02 ![Sem título](https://user-images.githubusercontent.com/38790522/87840868-3d66cf00-c878-11ea-9660-9784fc035be2.png)
 
 ###   ![computer](https://user-images.githubusercontent.com/38790522/87855074-4f825500-c8ec-11ea-8bfb-604cd6efc3ae.png) Projeto
-Proffy é uma plataforma planejada para facilitar o encontro entre quem quer ensinar com quem quer aprender.
+Proffy é uma plataforma de estudos planejada para conectar alunos com professores, ou seja, permitir o encontro entre quem quer ensinar com quem quer aprender.
+
 
 ![proffy](https://user-images.githubusercontent.com/38790522/89902028-4ff4cf80-dbbc-11ea-89eb-e59009b1f8f1.png)
 
