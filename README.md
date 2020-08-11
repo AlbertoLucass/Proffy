@@ -15,7 +15,7 @@ Proffy é uma plataforma planejada para facilitar o encontro entre quem quer ens
 - [JavaScript;](https://www.javascript.com/)
 
 ### <img src="https://img.icons8.com/color/30/000000/command-line.png"/> Como executar a aplicaçao:
-Para clonar e executar esta aplicação, é necessário ter o [Node.JS](https://nodejs.org/en/), o [Yarn](https://yarnpkg.com/) e [Git](https://gitforwindows.org/) instalados na sua máquina.
+Para clonar e executar esta aplicação, é necessário ter o [Node.JS](https://nodejs.org/en/) e [Git](https://gitforwindows.org/) instalados na sua máquina.
 
 A partir da sua linha de comando:
 
